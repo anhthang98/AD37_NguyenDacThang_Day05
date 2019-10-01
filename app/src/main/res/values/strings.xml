@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Exercise_Day05</string>
+    <string name="from_file">From file</string>
+    <string name="from_default">From default</string>
+    <string name="time_default">14:20</string>
+    <string name="date_default">12-4-2019</string>
+    <string name="tag_default">Android, VTC, Game, FPT</string>
+    <string name="week_default">Monday, Saturday</string>
+
+
+    <string-array name="tag_item">
+        <item>Family</item>
+        <item>Game</item>
+        <item>Android</item>
+        <item>Java</item>
+        <item>Friend</item>
+    </string-array>
+
+    <string-array name="week_item">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thurday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
